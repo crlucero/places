@@ -9,20 +9,21 @@ This is a program that will allow a user to click on the image of the destinatio
 see further information of those specific destinations.
 
 ## Specs
-Specs for Places constructor
+### Specs for Places constructor
 * cityName
 * countryName
 * landMark
 * visitorsPerYear
 * timeOfYear
-Example Input:
-    * new Places("Arizona", "USA", "Grand Canyon", "4.5 million", "summer");
 
-Beahvior: Program will find numbers divisble by 3.
-    * Location: Arizona
-    * Country: USA
-    * Landmark: Grand Canyon
-    * Visitors Per Year: 4.5 million
+### Example Input:
+* new Places("Arizona", "USA", "Grand Canyon", "4.5 million", "summer");
+
+### Behavior: Program will find numbers divisble by 3.
+* Location: Arizona
+* Country: USA
+* Landmark: Grand Canyon
+* Visitors Per Year: 4.5 million
 
 
 ## Setup/Installation Requirements
