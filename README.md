@@ -1,4 +1,4 @@
-#Places, 10_29_18
+# Places, 10_29_18
 
 #### This website is an application that lists places I have been.
 
@@ -10,11 +10,11 @@ see further information of those specific destinations.
 
 ## Specs
 Specs for Places constructor
-    * cityName
-    * countryName
-    * landMark
-    * visitorsPerYear
-    * timeOfYear
+* cityName
+* countryName
+* landMark
+* visitorsPerYear
+* timeOfYear
 Example Input:
     * new Places("Arizona", "USA", "Grand Canyon", "4.5 million", "summer");
 
